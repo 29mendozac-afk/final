@@ -1,0 +1,31 @@
+h1 {
+    inline-block;
+    padding:20px;
+    margin:10px;
+    color:rgb(37, 7, 7);
+    font-family:Garamond; 
+    text-align:center;
+    background-color: rgb(236, 230, 230);
+    }
+
+h2, li, u { color:rgb(37, 7, 7);
+    font-family:Garamond; 
+    margin:10px;
+    text-align:center;
+    background-color: rgb(236, 230, 230);
+    }
+    h3 {
+          font-family:Garamond; 
+    text-align:center;
+    margin:10px;
+    padding:10px;
+    color:rgb(37, 7, 7);
+background-color: rgb(236, 230, 230);    }
+
+p { color:rgb(37, 7, 7);
+    font-family:Garamond;
+    margin:10px;
+     padding:10px;
+    background-color:rgb(236, 230, 230); }
+ body { padding:10px;
+background-color: rgb(237, 235, 130); }
